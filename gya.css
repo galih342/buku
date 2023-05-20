@@ -952,7 +952,7 @@ p2 {
   aside {
     background: #030303;
     width: 80%;
-    height: 30vh;
+    height: 38vh;
     margin-top: 7px;
     border-radius: 10px;
     margin-left: 5px;
@@ -961,7 +961,7 @@ p2 {
   #watsid {
     margin-right: auto;
     margin-left: auto;
-    height: 65%;
+    height: 68%;
     overflow-y: scroll;
   }
 
@@ -970,7 +970,7 @@ p2 {
     margin-left: auto;
     width: 100%;
     max-width: 800px;
-    height: 30vh;
+    height: 38vh;
     overflow-y: scroll;
 }
 
